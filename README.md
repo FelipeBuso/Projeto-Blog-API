@@ -12,10 +12,12 @@ Criar um back-end usando `ORM` com o pacote `sequelize` do `npm`, aplicando os p
 1. Clone o repositório
   * Entre na pasta do repositório que você acabou de clonar:
 
-2. Instale as dependências:
+2. Renomeie o arquivo .env.example para .env e preencha as variáveis.
+
+3. Instale as dependências:
   * `npm install`
 
-3. Inicie a aplicação:
+4. Inicie a aplicação:
   * `npm start`
   
 
